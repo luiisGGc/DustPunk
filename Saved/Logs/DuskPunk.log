@@ -5104,3 +5104,4 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2026.02.13-19.38.28:934][569]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10612.721680
 [2026.02.13-19.38.30:269][573]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.13-19.38.30:269][573]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10613.720703, Update Interval: 356.172974
+[2026.02.13-19.43.31:002][476]LogDerivedDataCache: C:/Users/Luis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
