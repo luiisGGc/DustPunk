@@ -1,0 +1,11 @@
+# Unreal Engine defaults
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+.vscode/
+.vs/
+*.sln
+*.xcodeproj
