@@ -1,10 +1,7 @@
 Binaries/
-Build/
-DerivedDataCache/
 Intermediate/
 Saved/
-Script/
-.vscode/
+DerivedDataCache/
+Build/
 .vs/
 *.sln
-*.xcodeproj
