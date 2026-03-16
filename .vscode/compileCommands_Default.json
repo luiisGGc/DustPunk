@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\DuskPunk1\\Source\\DuskPunk\\ChaseTrait.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\DuskPunk1\\.vscode\\compileCommands_Default\\DuskPunk.1.rsp"
+		],
+		"directory": "E:\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\DuskPunk1\\Source\\DuskPunk\\ChaseTrait.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\DuskPunk1\\.vscode\\compileCommands_Default\\DuskPunk.1.rsp"
+		],
+		"directory": "E:\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\DuskPunk1\\Source\\DuskPunk\\DuskPunk.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\DuskPunk1\\.vscode\\compileCommands_Default\\DuskPunk.1.rsp"
+		],
+		"directory": "E:\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\DuskPunk1\\Source\\DuskPunk\\DuskPunk.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\DuskPunk1\\.vscode\\compileCommands_Default\\DuskPunk.1.rsp"
+		],
+		"directory": "E:\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\DuskPunk1\\Source\\DuskPunk\\DuskPunk.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\DuskPunk1\\.vscode\\compileCommands_Default\\DuskPunk.1.rsp"
+		],
+		"directory": "E:\\UE_5.6\\Engine\\Source"
+	}
+]
