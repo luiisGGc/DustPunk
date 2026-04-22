@@ -1,42 +1,26 @@
 [
 	{
-		"file": "D:\\DuskPunk1\\Source\\DuskPunk\\ChaseTrait.cpp",
+		"file": "D:\\DuskPunk\\Source\\DuskPunk\\DuskPunk.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\DuskPunk1\\.vscode\\compileCommands_DuskPunk\\DuskPunk.1.rsp"
+			"@D:\\DuskPunk\\.vscode\\compileCommands_DuskPunk\\DuskPunk.1.rsp"
 		],
-		"directory": "E:\\UE_5.6\\Engine\\Source"
+		"directory": "D:\\UE_5.6\\Engine\\Source"
 	},
 	{
-		"file": "D:\\DuskPunk1\\Source\\DuskPunk\\ChaseTrait.h",
+		"file": "D:\\DuskPunk\\Source\\DuskPunk\\DuskPunk.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\DuskPunk1\\.vscode\\compileCommands_DuskPunk\\DuskPunk.1.rsp"
+			"@D:\\DuskPunk\\.vscode\\compileCommands_DuskPunk\\DuskPunk.1.rsp"
 		],
-		"directory": "E:\\UE_5.6\\Engine\\Source"
+		"directory": "D:\\UE_5.6\\Engine\\Source"
 	},
 	{
-		"file": "D:\\DuskPunk1\\Source\\DuskPunk\\DuskPunk.Build.cs",
+		"file": "D:\\DuskPunk\\Source\\DuskPunk\\DuskPunk.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\DuskPunk1\\.vscode\\compileCommands_DuskPunk\\DuskPunk.1.rsp"
+			"@D:\\DuskPunk\\.vscode\\compileCommands_DuskPunk\\DuskPunk.1.rsp"
 		],
-		"directory": "E:\\UE_5.6\\Engine\\Source"
-	},
-	{
-		"file": "D:\\DuskPunk1\\Source\\DuskPunk\\DuskPunk.cpp",
-		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\DuskPunk1\\.vscode\\compileCommands_DuskPunk\\DuskPunk.1.rsp"
-		],
-		"directory": "E:\\UE_5.6\\Engine\\Source"
-	},
-	{
-		"file": "D:\\DuskPunk1\\Source\\DuskPunk\\DuskPunk.h",
-		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\DuskPunk1\\.vscode\\compileCommands_DuskPunk\\DuskPunk.1.rsp"
-		],
-		"directory": "E:\\UE_5.6\\Engine\\Source"
+		"directory": "D:\\UE_5.6\\Engine\\Source"
 	}
 ]
