@@ -40,6 +40,10 @@
 		{
 			"Name": "MassAI",
 			"Enabled": true
+		},
+		{
+			"Name": "FieldSystemPlugin",
+			"Enabled": true
 		}
 	]
 }
