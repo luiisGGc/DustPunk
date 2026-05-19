@@ -52,6 +52,10 @@
 		{
 			"Name": "PCG",
 			"Enabled": true
+		},
+		{
+			"Name": "ComicShaders",
+			"Enabled": true
 		}
 	]
 }
