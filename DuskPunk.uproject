@@ -56,6 +56,10 @@
 		{
 			"Name": "ComicShaders",
 			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
+			"Enabled": true
 		}
 	]
 }
