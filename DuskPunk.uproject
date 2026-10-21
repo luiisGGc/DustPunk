@@ -1,57 +1,65 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "5.6",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "DuskPunk",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"MassSpawner"
-			]
-		}
-	],
-	"Plugins": [
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		},
-		{
-			"Name": "Aura",
-			"Enabled": false
-		},
-		{
-			"Name": "MassEntity",
-			"Enabled": true
-		},
-		{
-			"Name": "MassGameplay",
-			"Enabled": true
-		},
-		{
-			"Name": "MassCrowd",
-			"Enabled": true
-		},
-		{
-			"Name": "MassAI",
-			"Enabled": true
-		},
-		{
-			"Name": "FieldSystemPlugin",
-			"Enabled": true
-		},
-		{
-			"Name": "RawInput",
-			"Enabled": true
-		},
-		{
-			"Name": "PCG",
-			"Enabled": true
-		}
-	]
+﻿{
+    "FileVersion":  3,
+    "EngineAssociation":  "5.6",
+    "Category":  "",
+    "Description":  "",
+    "Modules":  [
+                    {
+                        "Name":  "DuskPunk",
+                        "Type":  "Runtime",
+                        "LoadingPhase":  "Default",
+                        "AdditionalDependencies":  [
+                                                       "MassSpawner"
+                                                   ]
+                    }
+                ],
+    "Plugins":  [
+                    {
+                        "Name":  "ModelingToolsEditorMode",
+                        "Enabled":  true,
+                        "TargetAllowList":  [
+                                                "Editor"
+                                            ]
+                    },
+                    {
+                        "Name":  "Aura",
+                        "Enabled":  false
+                    },
+                    {
+                        "Name":  "MassEntity",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "MassGameplay",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "MassCrowd",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "MassAI",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "FieldSystemPlugin",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "RawInput",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "PCG",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "RemoteControl",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "UnrealEngineMCP",
+                        "Enabled":  true
+                    }
+                ]
 }
